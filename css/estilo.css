@@ -55,10 +55,10 @@
   height: 40px;
 }
 .preto {
-  background-color: #000;
+  background-color: #ff0000;
 }
 .branco {
-  background-color: #fff;
+  background-color: #6213eb;
 }
 /*coisa 2*/
 .todo{
@@ -68,18 +68,18 @@
   height: 100vh;
 }
 .l1{
-  background-color: #999;
+  background-color: #aa3535;
   width: 100px;
   height: 20vh;
 }
 .l2{
-  background-color: #484848;
+  background-color: #4694d8;
   width: 100px;
   height: 30vh;
 }
 
 .l3{
-  background-color: #999;
+  background-color: #17b31f;
   width: 100px;
   height: 15vh;
 }
@@ -114,7 +114,7 @@
   flex: 1;
 }
 .p2{
-  background-color: #484848;
+  background-color: #ed7a7a;
   flex: 3;
   display: flex;
 }
@@ -132,7 +132,7 @@
   flex: 2;
 }
 .p6{
-  background-color: #999;
+  background-color: #a70505;
   flex: 1;
 }
 .p7{
@@ -147,12 +147,12 @@
 }
 .o2{
   margin: 0px 0px 16px 16px;
-  background-color: #999;
+  background-color: #aa1111;
   padding: 4px;
 }
 .o3{
   margin: 0px 0px 16px 16px;
-  background-color: #999;
+  background-color: #a64545;
   padding: 4px;
 }
 
